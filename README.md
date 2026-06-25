@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
