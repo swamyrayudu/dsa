@@ -17,13 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
+| [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
