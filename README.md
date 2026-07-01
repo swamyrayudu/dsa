@@ -43,6 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
+| [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/swamyrayudu/dsa/tree/master/2140-solving-questions-with-brainpower) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
