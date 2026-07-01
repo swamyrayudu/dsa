@@ -1,16 +1,15 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        dp = [-1] * (n+1)
-        def f(i):
-            if i == 0:
-                return 0
-            if i == 1 or i == 2:
-                return 1
-            if dp[i] != -1:
-                return dp[i]
-            first = f(i-1)
-            second = f(i-2)
-            third = f(i-3)
-            dp[i] = first+second+third
-            return dp[i]
-        return f(n)
+        if n == 0:
+            return 0
+        if n == 1 or n == 2:
+            return 1
+        pre1 = 1
+        pre2 = 1
+        pre3 = 0
+        for i in range(3,n+1):
+            curr = pre1 + pre2 + pre3
+            pre3 = pre2
+            pre2 = pre1
+            pre1 = curr
+        return pre1
