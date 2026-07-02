@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swamyrayudu/dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swamyrayudu/dsa/tree/master/0053-maximum-subarray) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/swamyrayudu/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
