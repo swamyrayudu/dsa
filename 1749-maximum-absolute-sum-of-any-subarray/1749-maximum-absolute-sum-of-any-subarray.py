@@ -1,26 +1,16 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
         n = len(nums)
-        dp1 = [-1] * (n)
-        dp2 = [-1] * (n)
-        def maxi(i):
-            if i == n -1:
-                return nums[i]
-            if dp1[i] != -1:
-                return dp1[i]
-            dp1[i] = max(nums[i],nums[i]+maxi(i+1))
-            return dp1[i]
-        def mini(i):
-            if i == n -1:
-                return nums[i]
-            if dp2[i] != -1:
-                return dp2[i]
-            dp2[i] = min(nums[i],nums[i]+mini(i+1))
-            return dp2[i]
+        dp1 = [0] * (n+1)
+        dp2 = [0] * (n+1)
+        for i in range(n-1,-1,-1):
+            dp1[i] = max(nums[i],nums[i]+dp1[i+1])
+        for i in range(n-1,-1,-1):
+            dp2[i] = min(nums[i],nums[i]+dp2[i+1])
 
         maxsub = float("-inf")
         minsub = float("inf")
         for i in range(n):
-            maxsub = max(maxsub,maxi(i))
-            minsub = min(minsub,mini(i))
+            maxsub = max(maxsub,dp1[i])
+            minsub = min(minsub,dp2[i])
         return max(maxsub,abs(minsub))
