@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/swamyrayudu/dsa/tree/master/0152-maximum-product-subarray) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [0918-maximum-sum-circular-subarray](https://github.com/swamyrayudu/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/swamyrayudu/dsa/tree/master/2140-solving-questions-with-brainpower) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [0918-maximum-sum-circular-subarray](https://github.com/swamyrayudu/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/swamyrayudu/dsa/tree/master/2140-solving-questions-with-brainpower) |
 ## Math
