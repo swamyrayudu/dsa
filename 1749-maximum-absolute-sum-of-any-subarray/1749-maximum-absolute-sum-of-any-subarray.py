@@ -1,16 +1,17 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
         n = len(nums)
-        dp1 = [0] * (n+1)
-        dp2 = [0] * (n+1)
-        for i in range(n-1,-1,-1):
-            dp1[i] = max(nums[i],nums[i]+dp1[i+1])
-        for i in range(n-1,-1,-1):
-            dp2[i] = min(nums[i],nums[i]+dp2[i+1])
-
+        pre1 = 0
         maxsub = float("-inf")
+        for i in range(n-1,-1,-1):
+            curr = max(nums[i],nums[i]+pre1)
+            maxsub = max(maxsub,curr)
+            pre1 = curr
         minsub = float("inf")
-        for i in range(n):
-            maxsub = max(maxsub,dp1[i])
-            minsub = min(minsub,dp2[i])
+        pre2 = 0
+        for i in range(n-1,-1,-1):
+            curr = min(nums[i],nums[i]+pre2)
+            minsub = min(minsub,curr)
+            pre2 = curr
+
         return max(maxsub,abs(minsub))
