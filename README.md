@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/swamyrayudu/dsa/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swamyrayudu/dsa/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/swamyrayudu/dsa/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/swamyrayudu/dsa/tree/master/0152-maximum-product-subarray) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [0918-maximum-sum-circular-subarray](https://github.com/swamyrayudu/dsa/tree/master/0918-maximum-sum-circular-subarray) |
