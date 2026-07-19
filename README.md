@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/swamyrayudu/dsa/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/swamyrayudu/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/swamyrayudu/dsa/tree/master/2140-solving-questions-with-brainpower) |
 ## Math
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
+| [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
