@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/swamyrayudu/dsa/tree/master/0091-decode-ways) |
+| [0796-rotate-string](https://github.com/swamyrayudu/dsa/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/swamyrayudu/dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
