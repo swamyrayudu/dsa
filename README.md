@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/swamyrayudu/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/swamyrayudu/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/swamyrayudu/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/swamyrayudu/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/swamyrayudu/dsa/tree/master/2140-solving-questions-with-brainpower) |
