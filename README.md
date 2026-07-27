@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/swamyrayudu/dsa/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/swamyrayudu/dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swamyrayudu/dsa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/swamyrayudu/dsa/tree/master/0213-house-robber-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/swamyrayudu/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -126,14 +128,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
