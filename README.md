@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/swamyrayudu/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/swamyrayudu/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/swamyrayudu/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/swamyrayudu/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
