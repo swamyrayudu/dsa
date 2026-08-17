@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/swamyrayudu/dsa/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/swamyrayudu/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swamyrayudu/dsa/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -165,4 +167,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/swamyrayudu/dsa/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
