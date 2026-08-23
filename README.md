@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/swamyrayudu/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/swamyrayudu/dsa/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/swamyrayudu/dsa/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/swamyrayudu/dsa/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/swamyrayudu/dsa/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1927-sum-game](https://github.com/swamyrayudu/dsa/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
 ## Memoization
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/swamyrayudu/dsa/tree/master/0802-find-eventual-safe-states) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/swamyrayudu/dsa/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
