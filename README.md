@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/swamyrayudu/dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/swamyrayudu/dsa/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/swamyrayudu/dsa/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 | [0542-01-matrix](https://github.com/swamyrayudu/dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/swamyrayudu/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/swamyrayudu/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/swamyrayudu/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swamyrayudu/dsa/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 | [1137-n-th-tribonacci-number](https://github.com/swamyrayudu/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/swamyrayudu/dsa/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/swamyrayudu/dsa/tree/master/2063-vowels-of-all-substrings) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/swamyrayudu/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/swamyrayudu/dsa/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/swamyrayudu/dsa/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
