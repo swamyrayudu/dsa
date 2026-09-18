@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swamyrayudu/dsa/tree/master/1020-number-of-enclaves) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/swamyrayudu/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1672-richest-customer-wealth](https://github.com/swamyrayudu/dsa/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/swamyrayudu/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swamyrayudu/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swamyrayudu/dsa/tree/master/1020-number-of-enclaves) |
+| [1672-richest-customer-wealth](https://github.com/swamyrayudu/dsa/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
