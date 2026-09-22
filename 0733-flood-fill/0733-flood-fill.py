@@ -1,20 +1,21 @@
 class Solution:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-	    original = image[sr][sc]
-	    if original == color:
+    def floodFill(self, image: list[list[int]], sr: int, sc: int, color: int) -> list[list[int]]:
+        val = image[sr][sc]
+        if val == color:
 	        return image
-	    m = len(image)
-	    n = len(image[0])
-	    dfsrow = [0,1,-1,0]
-	    dfscol = [1,0,0,-1]
-	    def dfs(row,col):
-	        image[row][col] = color
-	        
-	        for i in range(4):
-	            newrow = dfsrow[i] + row
-	            newcol = dfscol[i] + col
-	            
-	            if 0 <= newrow < m and 0 <= newcol < n and image[newrow][newcol] == original:
-	                dfs(newrow,newcol)
-	    dfs(sr,sc)
-	    return image
+        row = len(image)
+        col = len(image[0])
+        vis = [[False for i in range(col)] for j in range(row)]
+        rowdir = [1,0,0,-1]
+        coldir = [0,1,-1,0]
+        
+        def dfs(i,j):
+            vis[i][j] = True
+            image[i][j] = color
+            for k in range(4):
+                newrow = i + rowdir[k]
+                newcol = j + coldir[k]
+                if 0 <= newrow < row and 0 <= newcol < col and not vis[newrow][newcol] and image[newrow][newcol] == val:
+                    dfs(newrow,newcol)
+        dfs(sr,sc)
+        return image
