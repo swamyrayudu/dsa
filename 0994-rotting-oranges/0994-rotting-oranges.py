@@ -1,38 +1,34 @@
 from collections import deque
 class Solution:
-    def orangesRotting(self, grid: List[List[int]]) -> int:
+    def orangesRotting(self, grid: list[list[int]]) -> int:
         m = len(grid)
         n = len(grid[0])
+        vis = [[False for i in range(n)] for j in range(m)]
+        rowdir = [0,-1,0,1]
+        coldir = [1,0,-1,0]
         queue = deque()
-        count0s = 0
-        count1s = 0
-        for row in range(m):
-            for col in range(n):
-                if grid[row][col] == 0:
-                    count0s += 1
-                elif grid[row][col] == 1:
-                    count1s += 1
-                else:
-                    queue.append([row,col])
-        if count1s == 0:
-            return 0
-        bfsrow = [0,1,-1,0]
-        bfscol = [1,0,0,-1]
+        
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 2:
+                    queue.append((i,j))
+                    vis[i][j] = True
         count = 0
         while queue:
-            change = False
-            for i in range(len(queue)):
-                node = queue.popleft()
-                for i in range(4):
-                    newrow = bfsrow[i] + node[0]
-                    newcol = bfscol[i] + node[1]
-                    if 0 <= newrow < m and 0 <= newcol < n and grid[newrow][newcol] == 1:
-                        queue.append([newrow,newcol])
+            length = len(queue)
+            for i in range(length):
+                row,col = queue.popleft()
+                for j in range(4):
+                    newrow = rowdir[j] + row
+                    newcol = coldir[j] + col
+                    if 0 <= newrow < m and 0 <= newcol < n and not vis[newrow][newcol] and grid[newrow][newcol] == 1:
                         grid[newrow][newcol] = 2
-                        count1s-=1
-                        change = True
-            if change:
+                        queue.append((newrow,newcol))
+                        vis[newrow][newcol] = True
+            if queue:
                 count+=1
-        if count1s > 0:
-            return -1
-        return count
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    return -1
+        return count 
