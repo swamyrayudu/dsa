@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swamyrayudu/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swamyrayudu/dsa/tree/master/1020-number-of-enclaves) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/swamyrayudu/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swamyrayudu/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/swamyrayudu/dsa/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/swamyrayudu/dsa/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/swamyrayudu/dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/swamyrayudu/dsa/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/swamyrayudu/dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swamyrayudu/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swamyrayudu/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/swamyrayudu/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Hash Table
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/swamyrayudu/dsa/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/swamyrayudu/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swamyrayudu/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swamyrayudu/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/swamyrayudu/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Matrix
 |  |
